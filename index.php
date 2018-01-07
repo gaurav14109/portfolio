@@ -1,1 +1,1 @@
-<?php readfile("navbar.html"); ?>
+<?php readfile("bootstrap.html"); ?>
